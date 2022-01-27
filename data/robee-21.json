@@ -1,0 +1,9 @@
+{
+  "contest": 78,
+  "handle": "robee",
+  "address": "0x8b8f9A972B19A26287b28162e49787a1f3ec5A32",
+  "risk": "G",
+  "title": "Gas Optimization On The 2^256-1",
+  "issueId": 21,
+  "issueUrl": "https://github.com/code-423n4/2022-01-behodler-findings/issues/21"
+}
