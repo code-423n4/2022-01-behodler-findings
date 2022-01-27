@@ -1,0 +1,9 @@
+{
+  "contest": 78,
+  "handle": "jayjonah8",
+  "address": "0x75aAfefc48D23C65F49603491630308DcBd468f5",
+  "risk": "3",
+  "title": "buyFlanAndBurn() function open to flashloan attacks to inflate rewards and drain pool ",
+  "issueId": 57,
+  "issueUrl": "https://github.com/code-423n4/2022-01-behodler-findings/issues/57"
+}
