@@ -1,0 +1,9 @@
+{
+  "contest": 78,
+  "handle": "Randyyy",
+  "address": "0x8a59f36d7d44460418781ded3d1cA45e19F2Ab02",
+  "risk": "1",
+  "title": "Missing check existing tokenProxy .",
+  "issueId": 75,
+  "issueUrl": "https://github.com/code-423n4/2022-01-behodler-findings/issues/75"
+}
