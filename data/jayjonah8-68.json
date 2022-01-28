@@ -1,0 +1,9 @@
+{
+  "contest": 78,
+  "handle": "jayjonah8",
+  "address": "0x75aAfefc48D23C65F49603491630308DcBd468f5",
+  "risk": "2",
+  "title": "incrementFateFor() uses the user arg instead of msg.sender",
+  "issueId": 68,
+  "issueUrl": "https://github.com/code-423n4/2022-01-behodler-findings/issues/68"
+}
