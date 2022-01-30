@@ -1,0 +1,9 @@
+{
+  "contest": 78,
+  "handle": "BouSalman",
+  "address": "0xDdd4D4c17971dBfC6FD781c3354DCaa7757a87eb",
+  "risk": "G",
+  "title": "Gas saving by setting smaller revert messages ",
+  "issueId": 94,
+  "issueUrl": "https://github.com/code-423n4/2022-01-behodler-findings/issues/94"
+}
