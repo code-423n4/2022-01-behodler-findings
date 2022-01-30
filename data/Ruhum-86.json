@@ -1,0 +1,9 @@
+{
+  "contest": 78,
+  "handle": "Ruhum",
+  "address": "0x1708bdfa333F81993A1eDcFEc6821a3Ec563eA06",
+  "risk": "2",
+  "title": "`LimboDAO.killDAO()` doesn't update the DAO address of `FlanBackstop`, `UniswapHelper`, and `ProposalFactory`",
+  "issueId": 86,
+  "issueUrl": "https://github.com/code-423n4/2022-01-behodler-findings/issues/86"
+}
