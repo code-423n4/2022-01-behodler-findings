@@ -1,0 +1,9 @@
+{
+  "contest": 78,
+  "handle": "camden",
+  "address": "0x840B1dC2abb99f1F86D549303719610F346B2aaF",
+  "risk": "G",
+  "title": "`purchasePyroFlan` has many `redeemRate` calls that don't do anything",
+  "issueId": 109,
+  "issueUrl": "https://github.com/code-423n4/2022-01-behodler-findings/issues/109"
+}
