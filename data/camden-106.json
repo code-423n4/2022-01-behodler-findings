@@ -1,0 +1,9 @@
+{
+  "contest": 78,
+  "handle": "camden",
+  "address": "0x840B1dC2abb99f1F86D549303719610F346B2aaF",
+  "risk": "2",
+  "title": "You can flip governance decisions without extending vote duration",
+  "issueId": 106,
+  "issueUrl": "https://github.com/code-423n4/2022-01-behodler-findings/issues/106"
+}
