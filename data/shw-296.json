@@ -1,0 +1,9 @@
+{
+  "contest": 78,
+  "handle": "shw",
+  "address": "0xABb99042FAE2C86b8437585467a24a71b17d23bA",
+  "risk": "2",
+  "title": "Lack of access control in the `parameterize` function of proposal contracts",
+  "issueId": 296,
+  "issueUrl": "https://github.com/code-423n4/2022-01-behodler-findings/issues/296"
+}
