@@ -1,0 +1,9 @@
+{
+  "contest": 78,
+  "handle": "ych18",
+  "address": "0x02435fb305D2BBA609E044279C50498Abe279380",
+  "risk": "1",
+  "title": "Unsafe downcast in `LamboDAO.setEYEBasedAssetStake`",
+  "issueId": 229,
+  "issueUrl": "https://github.com/code-423n4/2022-01-behodler-findings/issues/229"
+}
