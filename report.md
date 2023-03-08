@@ -1,3 +1,11 @@
+---
+sponsor: "Behodler"
+slug: "2022-01-behodler"
+date: "2022-03-24"
+title: "Behodler contest"
+findings: "https://github.com/code-423n4/2022-01-behodler-findings/issues"
+contest: 78
+---
 
 # Overview
 
